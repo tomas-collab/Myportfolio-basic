@@ -149,3 +149,16 @@ footer{
     text-align: center;
     color: white;
 }
+ul.show{
+    display: block;
+}
+
+
+@media screen and (max-width:800px) {
+    .project-container{
+       display: flex;
+        flex-wrap: wrap;
+     
+    }
+    
+} 
