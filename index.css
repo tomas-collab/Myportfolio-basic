@@ -98,8 +98,8 @@ footer{
 
 
 .headshot{
-    width: 270px;
-    height:270px ;
+    width: 176px;
+    height:193px ;
     border-radius: 50%;
 
 }
@@ -134,7 +134,7 @@ hr{
 }
 
 .project-link{
-    color: rgb(145, 146, 145);
+    color: rgb(177, 207, 177);
     
 }
 
@@ -148,9 +148,6 @@ footer{
     padding: 80px;
     text-align: center;
     color: white;
-}
-ul.show{
-    display: block;
 }
 
 
